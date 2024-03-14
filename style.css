@@ -46,3 +46,19 @@
 .blue-transparent {
   background-color: #0077cc75;
 }
+
+.jumbotron {
+  height: 50vh;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.small-icon {
+  border-radius: 100%;
+}
+
+.content {
+  column-count: 2;
+  column-gap: 1em;
+}
